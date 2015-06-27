@@ -7,7 +7,7 @@ postalc/rpi-rbase
 * `latest` = `3.2.1`
 * `0.1` = `3.2.1`
 
-(Docker Hub)[https://registry.hub.docker.com/u/postalc/rpi-rbase/]  
+[Docker Hub](https://registry.hub.docker.com/u/postalc/rpi-rbase/)  
 
 ## Nutshell
 * Enspire by [HypriotOS](http://blog.hypriot.com/post/brand-new-getting-started-guide/)
